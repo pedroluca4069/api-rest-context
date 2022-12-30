@@ -1,6 +1,6 @@
 # Dio Context
 
-Project developed to show how to work with Context API
+Project developed to show how to work with context API
 
 ## Available Scripts
 
